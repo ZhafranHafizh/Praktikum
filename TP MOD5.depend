@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1666538336 source:d:\telkom univ\tingkat 2 (sem 3-4)\semester 3\struktur data (praktikum)\tp\tp mod 5\tp mod5\main.cpp
+	"ADTsll.h"
+
+1666538237 d:\telkom univ\tingkat 2 (sem 3-4)\semester 3\struktur data (praktikum)\tp\tp mod 5\tp mod5\adtsll.h
+	<iostream>
+
+1666538693 source:d:\telkom univ\tingkat 2 (sem 3-4)\semester 3\struktur data (praktikum)\tp\tp mod 5\tp mod5\adtsll.cpp
+	"ADTsll.h"
+

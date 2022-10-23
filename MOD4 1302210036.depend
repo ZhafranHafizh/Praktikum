@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1665947935 source:d:\telkom univ\tingkat 2 (sem 3-4)\semester 3\struktur data (praktikum)\tp\tp mod 4\mod4 1302210036\sll.cpp
+	"SLL.h"
+
+1665947891 d:\telkom univ\tingkat 2 (sem 3-4)\semester 3\struktur data (praktikum)\tp\tp mod 4\mod4 1302210036\sll.h
+	<iostream>
+
+1665948336 source:d:\telkom univ\tingkat 2 (sem 3-4)\semester 3\struktur data (praktikum)\tp\tp mod 4\mod4 1302210036\main.cpp
+	"SLL.h"
+

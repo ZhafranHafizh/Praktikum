@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1665332128 source:d:\telkom univ\tingkat 2 (sem 3-4)\semester 3\struktur data (praktikum)\tp\tp mod 3\tepe\main.cpp
+	"member.h"
+
+1665330004 d:\telkom univ\tingkat 2 (sem 3-4)\semester 3\struktur data (praktikum)\tp\tp mod 3\tepe\member.h
+	<iostream>
+
+1665332169 source:d:\telkom univ\tingkat 2 (sem 3-4)\semester 3\struktur data (praktikum)\tp\tp mod 3\tepe\member.cpp
+	"member.h"
+
